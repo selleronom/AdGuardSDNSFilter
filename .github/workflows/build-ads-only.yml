@@ -30,19 +30,12 @@ jobs:
                 
                 # Use jq to filter the 'sources' array while preserving metadata
                 jq '.sources |= map(select(
-                    (.name | test("Tracking Protection|Social|EasyPrivacy|URL Tracking|Spyware"; "i") | not) and
-                    (.source | test("SpywareFilter|easyprivacy|TrackParam|social"; "i") | not)
+                    (.name | test("Tracking Protection|Social|EasyPrivacy|URL Tracking|Spyware|Frellwit"; "i") | not) and
+                    (.source | test("SpywareFilter|easyprivacy|TrackParam|social|frellwit"; "i") | not)
                 ))' configuration.json > configuration.filtered.json
                 
                 # Replace original with filtered version
                 mv configuration.filtered.json configuration.json
-                
-                # Show what was removed (for debugging)
-                echo "=== Removed filters ==="
-                jq -r '.sources[] | select(
-                    (.name | test("Tracking Protection|Social|EasyPrivacy|URL Tracking|Spyware"; "i")) or
-                    (.source | test("SpywareFilter|easyprivacy|TrackParam|social"; "i"))
-                ) | .name' configuration.json.bak || echo "None (or all removed)"
                 
                 echo ""
                 echo "=== Remaining filters ($(jq '.sources | length' configuration.json) total) ==="
