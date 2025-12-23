@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-12-23T20:05:58.635Z
+! Last modified: 2025-12-23T22:05:56.515Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -6051,6 +6051,13 @@
 ||banner.tp24.it^
 ||ad.citynews.it^
 ||planner.tiscali.it^
+!---------------------------------------------------------------------
+!------------------------------ Korean -------------------------------
+!---------------------------------------------------------------------
+!
+! NOTE: Korean
+!
+||adc.indextops.com^
 !
 !---------------------------------------------------------------------
 !--------------------------- Luxembourgish ---------------------------
@@ -8908,6 +8915,7 @@ vkcdnservice.appspot.com^
 ||alliancefurs.com^
 ||allicesoggier.com^
 ||alliedrebelcreative.com^
+||alliscuvetteray.cyou^
 ||allocatedense.com^
 ||allocationcaller.com^
 ||allongezemmi.rest^
@@ -13922,6 +13930,7 @@ vkcdnservice.appspot.com^
 ||clladss.com^
 ||clmbtech.com^
 ||clnrwdobejnth.online^
+||cloacalbacin.cyou^
 ||cloakedjesses.cfd^
 ||clobberprocurertightwad.com^
 ||cloblmsvwkjvy.site^
@@ -14830,6 +14839,7 @@ vkcdnservice.appspot.com^
 ||crisp-slice.com^
 ||crispterracedamage.com^
 ||cristaeaspalax.help^
+||cristirotter.shop^
 ||cristochris.com^
 ||criticaltriggerweather.com^
 ||crittereasilyhangover.com^
@@ -17950,6 +17960,7 @@ vkcdnservice.appspot.com^
 ||elizabethpunishhead.com^
 ||eljeunmkjiamm.space^
 ||eljfsfvegudgz.website^
+||elkftkdjar.com^
 ||elkunbalanceunfounded.com^
 ||elkwoodbiggin.top^
 ||ellahcudmjpvi.space^
@@ -21658,6 +21669,7 @@ vkcdnservice.appspot.com^
 ||goldesthazer.cyou^
 ||goldfishdrove.com^
 ||goldfishouncereburial.com^
+||goldsgrylli.cfd^
 ||golgicolorer.life^
 ||golnkz.com^
 ||goloshguanin.rest^
@@ -22524,6 +22536,7 @@ vkcdnservice.appspot.com^
 ||haizlagxxihtb.space^
 ||hajfnkyzhvbqm.online^
 ||hajisscottie.rest^
+||haksoorouvy.com^
 ||halakictsp.help^
 ||halduspays.help^
 ||halelymopsy.help^
@@ -23857,6 +23870,7 @@ vkcdnservice.appspot.com^
 ||huxitsaise.net^
 ||huzytgmqsnecd.website^
 ||hv8c74z8pfy35fgnk9.cfd^
+||hvccutgusxtfe.website^
 ||hvdponfpbcgyr.site^
 ||hvdzdrovccwom.site^
 ||hvefnbufkpxou.website^
@@ -24229,6 +24243,7 @@ vkcdnservice.appspot.com^
 ||iflfnermnmnhj.space^
 ||ifmxhabbjpjrm.website^
 ||ifnnrpduqbdsv.website^
+||ifoahigvq.xyz^
 ||ifont.site^
 ||ifourgoomoo.net^
 ||ifpiawqeievju.online^
@@ -24264,6 +24279,7 @@ vkcdnservice.appspot.com^
 ||ignoringincur.com^
 ||igogofidvjas.xyz^
 ||igokedropit.net^
+||igqavftkbwsd.com^
 ||igraard.xyz^
 ||igszvdjpvxqdt.online^
 ||igtbkmkznjthx.club^
@@ -24562,6 +24578,7 @@ vkcdnservice.appspot.com^
 ||imsonicgale.com^
 ||imtshvsvjzeob.website^
 ||imtvbovcxwhvl.global^
+||imuyiqtmscgiy.space^
 ||imuyzqvydxswd.online^
 ||imxoqvsfeteyyx.com^
 ||imyanmarads.com^
@@ -25436,6 +25453,7 @@ vkcdnservice.appspot.com^
 ||jads.co^
 ||jadtottuleret.org^
 ||jaegersgooses.shop^
+||jaenwyxlzrkos.online^
 ||jaforvsuneysw.website^
 ||jafsuasulxeoh.online^
 ||jagatpolary.qpon^
@@ -25887,6 +25905,7 @@ vkcdnservice.appspot.com^
 ||jmnimxckinsdz.website^
 ||jmnktmmkiitir.site^
 ||jmnxhygjdedjy.site^
+||jmoofprjgqtwr.space^
 ||jmp-assets.com^
 ||jmpmedia.club^
 ||jmrpcwkkaptlr.store^
@@ -26034,6 +26053,7 @@ vkcdnservice.appspot.com^
 ||joxmvhwkqhqvb.site^
 ||joyceanregalio.cyou^
 ||joycreatorheader.com^
+||joyfularvejoncottae.cyou^
 ||joyous-north.pro^
 ||joyous-self.pro^
 ||joyousentry.pro^
@@ -32813,6 +32833,7 @@ vkcdnservice.appspot.com^
 ||ogxntutl.fun^
 ||ogxrhhjsvqymya.com^
 ||ogxtoqiogfeuuf.com^
+||ogzashgkmhted.space^
 ||ogzdumaqlo.com^
 ||oh53v842gxk76i8zkpqjcy5izf.cfd^
 ||ohapxrgytp.com^
@@ -33094,6 +33115,7 @@ vkcdnservice.appspot.com^
 ||onjzuyhnmtvwa.space^
 ||onkdnmtdnikaq.space^
 ||onkmwcumdawfz.online^
+||onktonvsqvtxe.site^
 ||onlidex.com^
 ||online-adnetwork.com^
 ||onlinepromousa.com^
@@ -34318,6 +34340,7 @@ vkcdnservice.appspot.com^
 ||pchfebfpburcg.online^
 ||pchsbvdzuybfe.site^
 ||pcicifogr.com^
+||pcipbsmdiqsx.com^
 ||pcjalcwxecrxq.space^
 ||pcjlgfyoglsqp.top^
 ||pckagkewuqfox.website^
@@ -35467,6 +35490,7 @@ vkcdnservice.appspot.com^
 ||potencyidrooping.com^
 ||potentialisland.com^
 ||potentiallypantsreseptivereseptive.com^
+||potfulsburro.qpon^
 ||pothutepu.com^
 ||potlucktyponym.click^
 ||potmqiirlfjdu.store^
@@ -36574,6 +36598,7 @@ vkcdnservice.appspot.com^
 ||pzqskynbybqae.site^
 ||pzrgtwyjrhgiu.website^
 ||pztjqvvagwhlj.site^
+||pztk4hxz72g5orqxrjny4fgov.rest^
 ||pzvai.site^
 ||pzwzitvbdhpiw.website^
 ||pzxjjwbdvxxbi.store^
@@ -41882,6 +41907,7 @@ vkcdnservice.appspot.com^
 ||stripskeletonsting.com^
 ||striptfathmur.cyou^
 ||stripwedding.com^
+||strivendesi.help^
 ||strodeintended.com^
 ||stroilquercic.shop^
 ||strokedunhurt.help^
@@ -43358,6 +43384,7 @@ vkcdnservice.appspot.com^
 ||tnwpxdhkobrxo.online^
 ||tnxgvdzwqpizt.site^
 ||tnxkpmfknbiwr.space^
+||tnyafgzlwwk.com^
 ||tnzlmhzidwjzq.fun^
 ||tnzwltdwicqnw.space^
 ||to4kqgtnq3xzojnlhz.cfd^
@@ -46842,6 +46869,7 @@ vkcdnservice.appspot.com^
 ||wcuxkyjwndqxj.top^
 ||wcvevntrztrdi.site^
 ||wcwijbtqgajxf.global^
+||wcx4whygpeln92mfyp9zvf6e.cfd^
 ||wcxwaktdmio.com^
 ||wcyvjdpduqxym.site^
 ||wdcwmeklhgnfc.xyz^
@@ -49558,6 +49586,7 @@ vkcdnservice.appspot.com^
 ||zerothtrophal.digital^
 ||zeruwzwdzfpeo.site^
 ||zerzvqrzzqmre.top^
+||zerzvqrzzqzzq.top^
 ||zesrsywjvphmj.store^
 ||zetadeo.com^
 ||zethoaceems.net^
@@ -99524,6 +99553,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||uxlog-api.danawa.com^
 ||matomo-prod.cgorod.pw^
 ||a.tampermonkey.net^
 ||event.kr.karrotmarket.com^
@@ -105245,6 +105275,7 @@ dlsdk.appsflyer.com^
 ||forwardslashetc.com^
 ||fossilzero.com^
 ||fourpawsahead.com^
+||foxlagoon.com^
 ||foxtrotdata.com^
 ||frailfruit.com^
 ||framebanana.com^
@@ -105333,6 +105364,7 @@ dlsdk.appsflyer.com^
 ||grayoranges.com^
 ||grayreceipt.com^
 ||grayscaleart.com^
+||graywords.net^
 ||greasegarden.com^
 ||greasysquare.com^
 ||gridbelow.com^
